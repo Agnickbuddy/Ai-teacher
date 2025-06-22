@@ -100,7 +100,7 @@ This project is licensed under the **MIT License** – feel free to use, remix, 
 
 ## ✨ Author
 
-Made with ❤️ by \[Your Name]
+Made with ❤️ by \[Agnick]
 
 ---
 
