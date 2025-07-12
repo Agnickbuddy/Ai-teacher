@@ -7,7 +7,7 @@ let text = document.querySelector("#text");
 let output = document.querySelector(".output");
 
 const Api_url =
-  "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyDddhhzfQOxiLHycDtX_ziZzf0Pb3e-M_M";
+  "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIhzfQOxiLHycDtX_ziZzf0Pb3e-M_M";
 
 let fileDetails = {
   mime_type: null,
