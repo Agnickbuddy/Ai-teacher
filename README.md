@@ -102,15 +102,6 @@ This project is licensed under the **MIT License** – feel free to use, remix, 
 
 Made with ❤️ by \[Agnick]
 
----
-
-```
-
-Let me know if you want me to:
-- Add your **name**, GitHub link, or profile photo
-- Include **real screenshots**
-- Convert to **GitHub project-ready format**
-- Or deploy it online for you!
 
 I’m here to help you make it pro-level 💯
 ```
